@@ -17,15 +17,23 @@
 - [Random User via Fetch request](https://codepen.io/Villian79/pen/gXQNEL). API endpoint: https://randomuser.me/api/
 - [Random Cats via jQuery.ajax request](https://codepen.io/Villian79/pen/aVXdJr). API endpoint: https://random.cat/meow
 - [Random Quote via Axios request](https://codepen.io/Villian79/pen/aVXdJr). API endpoint: https://opentdb.com/api.php?amount=1
+- [AJAX 4 Way Exercise](https://codepen.io/Villian79/pen/EbMWXG). API endpoint: https://ron-swanson-quotes.herokuapp.com/v2/quotes
 
 **Resources used**
 1. Article: [*Ajax: A New Approach to Web Applications*](http://adaptivepath.org/ideas/ajax-new-approach-web-applications/) by Jesse James Garrett
 2. Dev Documentation: [*MDN web docs: XMLHttpRequest*](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 3. Dev Documentation: [*MDN web docs: XMLHttpRequest.ReadyState*](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState)
-4. API Documentation: [*Coindesk API*](https://www.coindesk.com/api/)
-5. Dev Documentation: [*MDN web docs: Fetch()*](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
-6. Dev Documentation: [*jQuery.ajax() Docs*](http://api.jquery.com/jQuery.ajax/)
-7. Dev Documentation: [*Axios documentation on GitHub*](https://github.com/axios/axios)
-
+4. Dev Documentation: [*MDN web docs: Fetch()*](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
+5. Dev Documentation: [*jQuery.ajax() Docs*](http://api.jquery.com/jQuery.ajax/)
+6. Dev Documentation: [*Axios documentation on GitHub*](https://github.com/axios/axios)
+7. Free APIs used: 
+      - API Documentation: [*Coindesk API*](https://www.coindesk.com/api/)
+      - API Documentation: [*jsonplaceholder API*](https://jsonplaceholder.typicode.com/commentsakjjgowj)
+      - API endpoint: [*Random Dogs API*](https://dog.ceo/api/breeds/image/random)
+      - API endpoint: [*Random User API*](https://randomuser.me/api/)
+      - API endpoint: [*Random Cats API*](https://random.cat/meow)
+      - API endpoint: [*Random Quote API*](https://opentdb.com/api.php?amount=1)
+      - API endpoint: [*Ron Swanson's Quotes API*](https://ron-swanson-quotes.herokuapp.com/v2/quotes)
+        
 *****
 
