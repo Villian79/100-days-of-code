@@ -1,30 +1,31 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - My Logs
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+*****
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: December 4, 2017, Monday
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
 
-**Link to work:** [Calculator App](http://www.example.com)
+- Cleaned up my GitHub profile, deleted few repos. Played with [markdown](https://daringfireball.net/projects/markdown/syntax#link) a bit. Tried to mentally prepare myself for the challenge. :fire:
+- Started learning about AJAX. Completed several basic requests using free APIs.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:** For the long period of time AJAX was a "black hole" for me. Today it started clicking. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Links to work:** 
+- [Random Dogs via XMLHttpRequest](https://codepen.io/Villian79/pen/LOgVZB). API endpoint: https://dog.ceo/api/breeds/image/random
+- [Bitcoin price via XMLHttpRequest](https://codepen.io/Villian79/pen/jaepVa). API endpoint: https://api.coindesk.com/v1/bpi/currentprice.json
+- [Random User via Fetch request](https://codepen.io/Villian79/pen/gXQNEL). API endpoint: https://randomuser.me/api/
+- [Random Cats via jQuery.ajax request](https://codepen.io/Villian79/pen/aVXdJr). API endpoint: https://random.cat/meow
+- [Random Quote via Axios request](https://codepen.io/Villian79/pen/aVXdJr). API endpoint: https://opentdb.com/api.php?amount=1
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Resources used**
+1. Article: [*Ajax: A New Approach to Web Applications*](http://adaptivepath.org/ideas/ajax-new-approach-web-applications/) by Jesse James Garrett
+2. Dev Documentation: [*MDN web docs: XMLHttpRequest*](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+3. Dev Documentation: [*MDN web docs: XMLHttpRequest.ReadyState*](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState)
+4. API Documentation: [*Coindesk API*](https://www.coindesk.com/api/)
+5. Dev Documentation: [*MDN web docs: Fetch()*](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
+6. Dev Documentation: [*jQuery.ajax() Docs*](http://api.jquery.com/jQuery.ajax/)
+7. Dev Documentation: [*Axios documentation on GitHub*](https://github.com/axios/axios)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+*****
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
