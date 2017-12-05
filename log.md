@@ -51,6 +51,6 @@ No valuable code created today.
 
 **Resources used**
 1. Framework documentation: [*Jasmine Framework*](https://jasmine.github.io/index.html)
-2. Article: [*Spying on Javascript methods with Jasmine*](https://jasmine.github.io/index.html) by Clemens Helm
+2. Article: [*Spying on Javascript methods with Jasmine*](https://blog.codeship.com/jasmine-spyon/) by Clemens Helm
 
 *****
