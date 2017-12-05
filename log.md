@@ -37,3 +37,20 @@
         
 *****
 
+### Day 2: December 5, 2017, Tuesday
+
+**Today's Progress**: 
+
+- Learned about testing applications. Got aquainted with [Jasmin](https://jasmine.github.io/index.html). Spend time watching "Advanced Web Developer Bootcamp" by Colt Steele and understanding core concepts of testing.
+- Played around with AJAX requests. Getting ready to complete [Random Quote Machine](https://www.freecodecamp.org/challenges/build-a-random-quote-machine) for [freecodecamp.org](https://www.freecodecamp.org)
+
+**Thoughts:** Discovered that testing is quite interesting. Wand to understand it more deeply. Like to find bugs and fix them.
+
+**Links to work:** 
+No valuable code created today.
+
+**Resources used**
+1. Framework documentation: [*Jasmine Framework*](https://jasmine.github.io/index.html)
+2. Article: [*Spying on Javascript methods with Jasmine*](https://jasmine.github.io/index.html) by Clemens Helm
+
+*****
