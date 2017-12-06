@@ -54,3 +54,19 @@ No valuable code created today.
 2. Article: [*Spying on Javascript methods with Jasmine*](https://blog.codeship.com/jasmine-spyon/) by Clemens Helm
 
 *****
+
+### Day 3: December 6, 2017, Wednesday
+
+**Today's Progress**: 
+
+- Intermediate JS functions: forEach(), map(), filter(), some(), every(), reduce()
+
+**Thoughts:** Reviewed my knowledge of JS functions. Practiced some simple exercises. Getting ready to build my first API
+
+**Links to work:** 
+Coding using Chrome browser console
+
+**Resources used**
+1. [*MDN documentation*](https://developer.mozilla.org/en-US/docs/Web)
+
+*****
