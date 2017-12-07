@@ -70,3 +70,19 @@ Coding using Chrome browser console
 1. [*MDN documentation*](https://developer.mozilla.org/en-US/docs/Web)
 
 *****
+
+### Day 4: December 7, 2017, Thursday
+
+**Today's Progress**: 
+
+- Intermediate JS: closures, keyword "this", call, apply, bind. Learning and solving test problems
+
+**Thoughts:** Did not have much time to work. Spent around two hours after soccer game. Reviewed my knowledge of JS functions. Practiced some simple exercises. Getting ready to build my first API
+
+**Links to work:** 
+Coding using Chrome browser console
+
+**Resources used**
+1. [*MDN documentation*](https://developer.mozilla.org/en-US/docs/Web)
+
+*****
