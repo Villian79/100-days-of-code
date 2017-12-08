@@ -86,3 +86,19 @@ Coding using Chrome browser console
 1. [*MDN documentation*](https://developer.mozilla.org/en-US/docs/Web)
 
 *****
+
+### Day 5: December 8, 2017, Friday
+
+**Today's Progress**: 
+
+- Intermediate JS: OOP, objects, prototypes, inheritance, etc.
+
+**Thoughts:** Again didn't have as much time to work and learn as I would like to. Yes, learning OOP is kinda fun. But at the same time I mostly follow the tutorials and don't do much coding. Getting ready to build my first API
+
+**Links to work:** 
+Coding using Chrome browser console
+
+**Resources used**
+1. [*MDN documentation*](https://developer.mozilla.org/en-US/docs/Web)
+
+*****
