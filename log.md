@@ -102,3 +102,20 @@ Coding using Chrome browser console
 1. [*MDN documentation*](https://developer.mozilla.org/en-US/docs/Web)
 
 *****
+
+### Day 6 - Day 7: December 9-10, 2017, Saturday - Sunday
+
+**Today's Progress**: 
+
+- Coding Along. Created basic ToDo app that uses local API. Reviewed Express, MongoDB, npm. Started learning new features introduced by ES-2015.
+
+**Thoughts:** Coding along is a nice thing to make you feel that you accomplished something. But it's not helpful unless you do your own project and get stuck with those concepts you've already been introduced. False feeling of accomplishment. It's been a long time since I worked on MEAN project. Have to rebuild knowledge. Tomorrow will try to accomplish FCC Random-Quote-Machine challenge. 
+
+**Links to work:** 
+Coding using Chrome browser console
+
+**Resources used**
+1. [*MDN documentation*](https://developer.mozilla.org/en-US/docs/Web)
+2. [*EXPRESS npm package documentation*](https://www.npmjs.com/package/express)
+
+*****
