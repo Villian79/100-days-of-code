@@ -119,3 +119,21 @@ Coding using Chrome browser console
 2. [*EXPRESS npm package documentation*](https://www.npmjs.com/package/express)
 
 *****
+
+### Day 8: December 11, 2017, Monday
+
+**Today's Progress**: 
+
+- Learning ES2015. New features: const, let, template strings, arrow functions, default parameters, for...of loops, rest, spread.
+- Learning ES2015. New stuff: classes, instance methods, inheritance, super, extends
+
+**Thoughts:** I definitely enjoy working with objects. Wanted to do more, but learning this material takes a lot of time. Feeling tired. 
+
+**Links to work:** 
+Coding using Chrome browser console
+
+**Resources used**
+1. [*MDN documentation*](https://developer.mozilla.org/en-US/docs/Web)
+2. [*Ecma Script 2015 Language Specification*](https://www.ecma-international.org/ecma-262/6.0/)
+
+*****
