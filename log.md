@@ -32,8 +32,10 @@
       - API endpoint: [*Random Dogs API*](https://dog.ceo/api/breeds/image/random)
       - API endpoint: [*Random User API*](https://randomuser.me/api/)
       - API endpoint: [*Random Cats API*](https://random.cat/meow)
-      - API endpoint: [*Random Quote API*](https://opentdb.com/api.php?amount=1)
+      - API endpoint:  Open Trivia Database [*Random Question API*](https://opentdb.com/api.php?amount=1)
       - API endpoint: [*Ron Swanson's Quotes API*](https://ron-swanson-quotes.herokuapp.com/v2/quotes)
+      - API endpoint: [*Star Wars API*](https://swapi.co/api/)
+      - API endpoint: [*GitHub API*](https://api.github.com)
         
 *****
 
