@@ -139,3 +139,21 @@ Coding using Chrome browser console
 2. [*Ecma Script 2015 Language Specification*](https://www.ecma-international.org/ecma-262/6.0/)
 
 *****
+
+### Day 9-10: December 12-13, 2017, Tuesday - Wednesday
+
+**Today's Progress**: 
+
+- Started Random-Quote-Machine project for FCC. Almost completed. All that left is js logic for the TWITTER button
+
+**Thoughts:** JS stuff was kind of easy. Didn't have too much trouble creating JSONP request to the API. CSS is a mess. I don't know where even start to figure it out. 
+
+**Links to work:** 
+Coding using Atom.
+- [*Random Quote Machine on GitHub*](https://github.com/Villian79/Random-Quote-Machine.git)
+
+**Resources used**
+1. [*Makerbook*](http://makerbook.net)
+2. [*Fonts Awesome*](http://fontawesome.io)
+
+*****
