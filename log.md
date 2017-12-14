@@ -157,3 +157,23 @@ Coding using Atom.
 2. [*Fonts Awesome*](http://fontawesome.io)
 
 *****
+
+### Day 11: December 14, 2017, Thursday
+
+**Today's Progress**: 
+
+- Completed and submitted Random-Quote-Machine project for FCC. 
+
+**Thoughts:** It takes a lot of time to check if everything works correctly even on such a tiny app. Can't imagine how to do it on big projects...
+
+**Links to work:** 
+- [*Random Quote on Codepen.io. Final Version*](https://codepen.io/Villian79/full/KZpdJX/)
+Coding using Atom.
+- [*Random Quote Machine on GitHub*](https://github.com/Villian79/Random-Quote-Machine.git)
+
+
+**Resources used**
+1. [*Makerbook*](http://makerbook.net)
+2. [*Fonts Awesome*](http://fontawesome.io)
+
+*****
