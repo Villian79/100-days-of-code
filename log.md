@@ -177,3 +177,23 @@ Coding using Atom.
 2. [*Fonts Awesome*](http://fontawesome.io)
 
 *****
+
+### Day 12: December 17, 2017, Sunday
+
+**Today's Progress**: 
+
+- Decided to step back a little and read MDN documentation to fill up some missing gaps
+
+**Thoughts:** Was tired. Wanted to learn D3, but decided to do MDN tutorials instead
+
+**Links to work:** 
+- No useful code today
+
+
+**Resources used**
+1. [*MDN documentation*](https://developer.mozilla.org/en-US/docs/Web)
+
+*****
+
+
+
