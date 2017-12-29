@@ -195,5 +195,26 @@ Coding using Atom.
 
 *****
 
+...
 
+*****
+
+### Day 21: December 28, 2017, Thursday
+
+**Today's Progress**: 
+
+- Internship at PopVia was sort of accepted. First day and done nothing. Just joining their slack channel, meeting people, chatting
+
+**Thoughts:** I have no idea what is going to happen. I don't feel confident enough to accept all the challenges. But I will do my best though to not let myself down.
+
+**Links to work:** 
+- [PopVia LinkedIn](https://www.linkedin.com/company/popvia/)
+- [PopVia Twitter](https://twitter.com/popvia)
+- [PopVia YouTube](https://www.youtube.com/channel/UClOzerlYyzzkNyZdED4yuRw)
+
+
+**Resources used**
+
+
+*****
 
